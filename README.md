@@ -1,42 +1,69 @@
-# informaci-n-
-todo sobre mis habilidades y defectos 
 
-MIS CONOCIMIENTOS 🙂
-* 1 año de pasatiempos con teléfonos móviles: viendo vídeos de dispositivos móviles y tutoriales como opciones del desarrollador funciones y tips de cuidado especialmente en Samsung,Huawei y un poco de Xiaomi o en conclusión sistemas operativos android 
-* 1 mes con termux y terminales, utilizar para administración de archivos usando los comandos: rm -rm, cp, cd, ls,-ls , pwd , etc.
-* 3 meses con desarrollo web: HTML CSS Y JS.
-* un poco de conocimiento de XML 
+Sobre Mí
 
-MIS DEFECTOS 🙁 
-*no se las características específicas de los dispositivos solo se algunos.
-*me falta mas aprendizaje y mas conocimientos sobre el tema especialmente con otros sistemas operativos o dispositivos especialmente Windows y Linux o iOS  entre otros 
-*me falta mas aprendizaje en Css y Js y un poco de html.
-*utilizar otros lenguajes de programación como: Python, Java ,
-C , C++ etc.
-* conocer  sobre lógica de programación o diseño gráfico 
-como también matemáticas o estadísticas .
+Mis Habilidades y Conocimientos 📚
 
-LIMITACIONES ⛓️
-*no poder estudiar a consecuencia de no tener dinero 
-* muy poco trabajo en programación 
-* debo tener muchos años de experiencia mínimo 5 Años
-* controlar el estrés y la alimentación y cuidado mental 
+Móviles y Sistemas Android: Más de 1 año de experiencia en el análisis y personalización de dispositivos móviles, especialmente en sistemas operativos Android (Samsung, Huawei, y Xiaomi). Exploro opciones de desarrollador y técnicas de cuidado de dispositivos.
 
-LO QUE QUIERO MEJORAR 
-* aprovechar siempre a estudiar lo qué quiero realizar 
-* mentalizarme , saber mas y sobre todo disfrutar mientras estudio
-* no dejar a causa de algo o alguien 
-* saber todo el tiempo que siempre hay que seguir y seguir estudiando y mejorar mi personalidad y mi carácter 
-* mejorar mi vida como ejercicio buena alimentación y cuidado personal, también tener un buen lugar minimalista y ordenado para estudiar y hacer programación,
+Uso de Termux y Terminales: 1 mes de experiencia en administración de archivos a través de comandos en terminal (comandos básicos: rm -rm, cp, cd, ls, pwd, entre otros).
 
-MIS SUEÑOS 🫀🧠
-* tener mi primera computadora y mi primer trabajo en desarrollo web 
-* ser un verdadero ingeniero de software o desarrollo web 
-* tener una vida diferente como lujos o autos deportivos  de altísimo exclusividad 
-* cosas muy importantes como tener una pc especial para programar y dominar en este campo 
-* estudiar o trabajar en importantes lugares como: Estados Unidos, Japón , Dubai y italia 
-* ser como Xavier Ochoa como se conoce programador x
-* trabajar en principales empresas como Google,Amazon, Nintendo o Windows y compañías de teléfonos como Samsung 
-o Apple 
+Desarrollo Web: 3 meses de práctica en HTML, CSS y JavaScript.
 
+XML: Conocimiento básico en XML.
+
+
+Áreas de Mejora 👀
+
+Conocimiento de Dispositivos: Aunque tengo experiencia con móviles, me falta información sobre sus especificaciones técnicas.
+
+Ampliación de Conocimientos: Necesito profundizar en otros sistemas operativos (Windows, Linux, iOS) y dispositivos variados.
+
+Desarrollo Web: Busco mejorar en CSS y JavaScript, además de perfeccionar HTML.
+
+Nuevos Lenguajes de Programación: Me gustaría aprender Python, Java, C y C++.
+
+Lógica de Programación y Diseño Gráfico: Necesito mejorar en lógica de programación y adquirir conocimientos en diseño gráfico.
+
+Matemáticas y Estadísticas: Deseo fortalecerme en estas áreas para ampliar mi perfil técnico.
+
+
+Limitaciones 🚧
+
+Recursos Económicos: Actualmente no tengo los medios financieros necesarios para estudiar de forma continua.
+
+Oportunidades de Trabajo: Existen pocas oportunidades para principiantes en programación.
+
+Experiencia: La mayoría de las oportunidades laborales requieren al menos 5 años de experiencia.
+
+Control del Estrés y Cuidado Mental: Trabajo en mejorar mi bienestar mental y manejo del estrés.
+
+
+Metas de Mejora 💡
+
+Aprovechar Cada Estudio: Quiero optimizar mis estudios y disfrutar del proceso.
+
+Persistencia y Resiliencia: No rendirme, sin importar los obstáculos.
+
+Crecimiento Personal: Mantenerme disciplinado en la mejora de mi personalidad y carácter.
+
+Hábitos Saludables: Incorporar ejercicio, buena alimentación y cuidado personal en mi vida.
+
+Espacio de Estudio: Crear un ambiente minimalista y organizado para estudiar y programar.
+
+
+Mis Sueños ✨
+
+Primeros Logros: Conseguir mi primera computadora y un trabajo en desarrollo web.
+
+Ser Ingeniero de Software: Convertirme en un ingeniero de software o desarrollador web profesional.
+
+Estilo de Vida y Logros Personales: Disfrutar de una vida con lujos y automóviles deportivos exclusivos.
+
+Equipos y Herramientas: Tener una PC especial para programación y dominar mi campo.
+
+Estudios y Trabajo en el Extranjero: Trabajar o estudiar en países como Estados Unidos, Japón, Dubái o Italia.
+
+Inspiración y Ejemplo: Seguir el ejemplo de Xavier Ochoa, el "Programador X".
+
+Compañías de Ensueño: Trabajar en empresas líderes como Google, Amazon, Nintendo, Microsoft o Samsung y Apple.
 
